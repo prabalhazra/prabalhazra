@@ -5,8 +5,6 @@
 <h1 align="center">Hey, I'm Prabal Hazra</h1>
 <h3 align="center">Currently, I am working with with Phono Technologies as an Android Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalhazra&label=Profile%20views&color=0e75b6&style=flat" alt="prabalhazra" /> </p>
-
 - 🌱 I’m currently learning **Flutter and Dart.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prabalhazra](https://github.com/prabalhazra)
