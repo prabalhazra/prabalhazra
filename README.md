@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prabalhazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabalhazra" height="30" width="40" /></a>
 <a href="https://fb.com/prabal.hazra.87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabal.hazra.87" height="30" width="40" /></a>
-<a href="https://instagram.com/iamprabal87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamprabal87" height="30" width="40" /></a>
+<a href="https://github.com/prabalhazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/github.svg" alt="prabal Hazra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabalhazra&show_icons=true&locale=en" alt="prabalhazra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalhazra&" alt="prabalhazra" /></p>
+
