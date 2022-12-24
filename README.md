@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Prabal Hazra</h1>
+<div align="center">
+<img src="greetings.gif" align="center" style="width: 100%" />
+</div>
+
+<h1 align="center">Hey, I'm Prabal Hazra</h1>
 <h3 align="center">Currently, I am working with with Phono Technologies as an Android Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabalhazra&label=Profile%20views&color=0e75b6&style=flat" alt="prabalhazra" /> </p>
@@ -12,6 +16,10 @@
 - 📫 How to reach me **mr.prabalhazra@gmail.com**
 
 - ⚡ Fun fact **I preferred Java over Kotlin 🫢.**
+
+<div align="center">
+<img src="giphy.gif" align="center" style="width: 100%" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
