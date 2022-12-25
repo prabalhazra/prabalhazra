@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mr.prabalhazra@gmail.com**
 
-- ⚡ Fun fact **I preferred Java over Kotlin 🫢.**
+- ⚡ Fun fact **I preferred Java over Kotlin 😁.**
 
 <div align="center">
 <img src="giphy.gif" align="center" style="width: 100%" />
